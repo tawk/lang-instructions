@@ -2,9 +2,10 @@
 
 What should I do with '\#sometext'? (\#sometext is just a sample)
 
-\#sometext is a replacement holder for the UI.
-It may be a holder for numbers or alphabets. When you encounter such texts, just use it as how it is.
-Do not translate the text.
+\#sometext is a placeholder for the UI.
+It may be a holder for numbers or letters. When you encounter such text, just use it as  it is.
+
+Do not translate the placeholder.
 
 Example 1
 
